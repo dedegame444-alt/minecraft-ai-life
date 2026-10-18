@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-ai-life",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor de IA para o Minecraft Bedrock",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
